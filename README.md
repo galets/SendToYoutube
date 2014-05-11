@@ -19,9 +19,9 @@ Examples:
 
 In order to use media center id instead or URL, register myxbmc in SendToYoutube.config:
 
-<?xml version="1.0" encoding="utf-8"?>
-<configuration>
-    <appSettings>
-        <add key="mc:myxbmc" value="http://userid:password123@xbmc-hostname:port"/>
-    </appSettings>
-</configuration>
+   <?xml version="1.0" encoding="utf-8"?>
+   <configuration>
+       <appSettings>
+           <add key="mc:myxbmc" value="http://userid:password123@xbmc-hostname:port"/>
+       </appSettings>
+   </configuration>
